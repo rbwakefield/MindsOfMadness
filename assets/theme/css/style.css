@@ -15,8 +15,7 @@ a.mbr-iconfont:hover {
   text-decoration: none; }
 
 .article .lead p, .article .lead ul, .article .lead ol, .article .lead pre, .article .lead blockquote {
-  margin-bottom: 0;
-  font-family: sans-serif; }
+  margin-bottom: 0; }
 
 a {
   font-style: normal;
@@ -424,10 +423,4 @@ nav .mbr-section-btn {
 	padding: 0;
 	top: 0;
 	left: -2400px;
-}
-
-/*# RSS Style */
-
-.RSS {
-	text-align: left;
 }
